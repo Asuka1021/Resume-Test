@@ -1,0 +1,19 @@
+.sub_title{
+	font-size: 25px;
+	font-weight: bold;
+	margin:20px 0px;
+}
+.info{
+	font-size: 18px;
+	font-weight: normal;
+	margin: 15px 0px;
+	line-height: 1.2em
+
+}
+.info span{
+	font-weight: bold;
+}
+
+#cap_info span,#edu_info span,#pro_info span{
+	display: block;
+}
