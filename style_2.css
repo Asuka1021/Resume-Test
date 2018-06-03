@@ -1,0 +1,41 @@
+*{
+	padding: 0px;
+	margin:0px;
+	overflow: hidden;
+}
+h1 {
+	float: left;
+	padding-top: 60px;
+	text-align: center;
+	background-color: #7ABCFFFF;
+	width: 200px;
+	height: 800px;
+	color: white;
+	font-weight: normal;
+}
+.right{
+	margin-left: 200px;
+	padding-left: 30px;
+	padding-top: 40px;
+}
+.sub_title{
+	height: 40px;
+	font-size: 25px;
+	font-weight: bold;
+}
+.info{
+	margin: 40px;
+	margin-left: 200px; 
+	font-size: 18px;
+	font-weight: normal;
+	margin: 15px 0px;
+	line-height: 1.2em
+
+}
+.info span{
+	font-weight: bold;
+}
+
+#cap_info span,#edu_info span,#pro_info span{
+	display: block;
+}
