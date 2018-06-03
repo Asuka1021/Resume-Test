@@ -1,13 +1,8 @@
-*{
-	padding: 0px;
-	margin: 0px;
-	overflow: hidden;
-}
 .main {
 	width: 800px;
 }
 .title {
-	font-size: 20px;
+	font-size: 15px;
 	width: 100%;
 	height: 50px;
 	background-color: gray;
