@@ -9,9 +9,10 @@ h1 {
 	text-align: center;
 	background-color: #7ABCFFFF;
 	width: 200px;
-	height: 800px;
+	height: 750px;
 	color: white;
 	font-weight: normal;
+	font-size: 50px;
 }
 .right{
 	margin-left: 200px;
